@@ -1,6 +1,6 @@
 
 
-Notebook includes data analysis of beer dataset
+## Notebook includes data analysis of beer dataset
 Dataset contains following columns:
 - 'beer_abv' - alcohol by volumne (expressed as a volume percent) 5 indicates 5% of alcohol is present
 - 'beer_beerId' - Beer id
@@ -17,7 +17,7 @@ Dataset contains following columns:
 - 'review_time' - time at which review was written probably in seconds
 
 
-Data Analysis on following questions is performed
+### Data Analysis on following questions is performed
 
 1.	Rank top 3 Breweries which produce the strongest beers?
 2.	Which year did beers enjoy the highest ratings? 
@@ -25,4 +25,13 @@ Data Analysis on following questions is performed
 4.	If you were to recommend 3 beers to your friends based on this data which ones will you recommend?
 5.	Which Beer style seems to be the favorite based on reviews written by users? 
 6.	How does written review compare to overall review score for the beer styles?
-7.	How do find similar beer drinkers by using written reviews only?   
+7.	How do find similar beer drinkers by using written reviews only?  
+
+
+### Instructions to run and reproduce the result1.
+
+1. Install following packages other than usual pandas,numpy, sklearn etc 
+pip install sentence-transformer
+pip install nltk
+2. Download ipynb from the link.
+3. Run it on kaggle/or local jupyter notebook tool. Ensure machine atleast have 16gb of ram.
