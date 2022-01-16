@@ -1,4 +1,4 @@
-# Evolent_datascience_project
+
 
 Notebook includes data analysis of beer dataset
 Dataset contains following columns:
@@ -18,6 +18,7 @@ Dataset contains following columns:
 
 
 Data Analysis on following questions is performed
+
 1.	Rank top 3 Breweries which produce the strongest beers?
 2.	Which year did beers enjoy the highest ratings? 
 3.	 Based on the user’s ratings which factors are important among taste, aroma, appearance, and palette?
